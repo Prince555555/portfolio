@@ -55,10 +55,10 @@ export default function Home() {
               <div className="flex flex-col justify-center space-y-4">
                 <div className="space-y-2">
                   <h1 className="text-3xl font-bold tracking-tighter sm:text-5xl xl:text-6xl/none">
-                    Laravel Developer & Web Artisan
+                    Laravel Developer and Web Artisan
                   </h1>
                   <p className="max-w-[600px] text-muted-foreground md:text-xl">
-                    Building robust, scalable web applications with Laravel, PHP, and modern web technologies.
+                    Building robust scalable web applications with Laravel PHP and modern web technologies
                   </p>
                 </div>
                 <div className="flex flex-col gap-2 min-[400px]:flex-row">
@@ -113,7 +113,7 @@ export default function Home() {
               <div className="space-y-2">
                 <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl">About Me</h2>
                 <p className="max-w-[900px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                  I'm a passionate Laravel developer with 5+ years of experience building web applications.
+                  I&apos;m a passionate Laravel developer with 5+ years of experience building web applications
                 </p>
               </div>
             </div>
@@ -123,16 +123,16 @@ export default function Home() {
                   <h3 className="text-2xl font-bold tracking-tighter">My Journey</h3>
                   <p className="text-muted-foreground">
                     I started my development journey with PHP in 2015 and quickly fell in love with the Laravel
-                    framework. Since then, I've worked on numerous projects ranging from small business websites to
+                    framework. Since then I&apos;ve worked on numerous projects ranging from small business websites to
                     complex enterprise applications.
                   </p>
                   <p className="text-muted-foreground mt-4">
-                    My expertise lies in building robust backend systems, RESTful APIs, and integrating with various
-                    third-party services. I'm passionate about clean code, test-driven development, and following best
+                    My expertise lies in building robust backend systems RESTful APIs, and integrating with various
+                    third-party services. I&apos;m passionate about clean code, test-driven development, and following best
                     practices.
                   </p>
                   <p className="text-muted-foreground mt-4">
-                    When I'm not coding, you can find me contributing to open-source projects, writing technical
+                    When I&apos;m not coding, you can find me contributing to open-source projects, writing technical
                     articles, or exploring new technologies to stay at the cutting edge of web development.
                   </p>
                 </div>
@@ -153,7 +153,7 @@ export default function Home() {
                   </div>
                 </div>
                 <div className="grid gap-2 mt-6">
-                  <h3 className="text-xl font-bold">Education & Certifications</h3>
+                  <h3 className="text-xl font-bold">Education &amp; Certifications</h3>
                   <div className="grid gap-4">
                     <div>
                       <h4 className="font-semibold">BSc in Computer Science</h4>
@@ -178,7 +178,7 @@ export default function Home() {
           <div className="container px-4 md:px-6">
             <div className="flex flex-col items-center justify-center space-y-4 text-center">
               <div className="space-y-2">
-                <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl">Skills & Expertise</h2>
+                <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl">Skills &amp; Expertise</h2>
                 <p className="max-w-[900px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
                   My technical toolkit and areas of expertise
                 </p>

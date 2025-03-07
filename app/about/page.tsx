@@ -45,12 +45,12 @@ export default function AboutPage() {
                   </div>
                 </div>
                 <p className="text-muted-foreground">
-                  I'm a passionate Laravel developer with over 5 years of experience building robust web applications.
+                  I&apos;m a passionate Laravel developer with over 5 years of experience building robust web applications.
                   My journey in web development began with PHP in 2015, and I quickly fell in love with the Laravel
                   framework for its elegant syntax and powerful features.
                 </p>
                 <p className="text-muted-foreground">
-                  Throughout my career, I've worked on a diverse range of projects, from e-commerce platforms and
+                  Throughout my career, I&apos;ve worked on a diverse range of projects, from e-commerce platforms and
                   content management systems to complex API services and SaaS applications. I pride myself on writing
                   clean, maintainable code and following industry best practices.
                 </p>
@@ -81,7 +81,7 @@ export default function AboutPage() {
               <div className="space-y-4">
                 <h2 className="text-2xl font-bold">Professional Journey</h2>
                 <p className="text-muted-foreground">
-                  My professional journey has been focused on mastering Laravel and the broader PHP ecosystem. I've
+                  My professional journey has been focused on mastering Laravel and the broader PHP ecosystem. I&apos;ve
                   worked with companies of all sizes, from startups to enterprise organizations, helping them build
                   scalable web applications that solve real business problems.
                 </p>
@@ -152,7 +152,7 @@ export default function AboutPage() {
               </div>
 
               <div className="space-y-4">
-                <h2 className="text-2xl font-bold">Education & Certifications</h2>
+                <h2 className="text-2xl font-bold">Education and Certifications</h2>
                 <div className="grid gap-6 md:grid-cols-2">
                   <Card>
                     <CardContent className="p-6">
@@ -207,11 +207,11 @@ export default function AboutPage() {
               <div className="space-y-4">
                 <h2 className="text-2xl font-bold">Personal Interests</h2>
                 <p className="text-muted-foreground">
-                  Outside of coding, I enjoy hiking, photography, and playing chess. I'm also an avid reader of
+                  Outside of coding, I enjoy hiking, photography, and playing chess. I&apos;m also an avid reader of
                   technical books and blogs, constantly looking to expand my knowledge and skills.
                 </p>
                 <p className="text-muted-foreground">
-                  I'm passionate about mentoring new developers and contributing to the Laravel community. I regularly
+                  I&apos;m passionate about mentoring new developers and contributing to the Laravel community. I regularly
                   attend local meetups and occasionally speak at tech conferences about Laravel best practices and
                   advanced techniques.
                 </p>
