@@ -39,7 +39,7 @@ export default function ContactPage() {
 
     toast({
       title: "Message sent!",
-      description: "Thank you for your message. I'll get back to you soon.",
+      description: "Thank you for your message. I&apos;ll get back to you soon.",
     })
 
     setFormData({
@@ -62,7 +62,7 @@ export default function ContactPage() {
               <div className="space-y-2">
                 <h1 className="text-3xl font-bold tracking-tighter sm:text-5xl">Get in Touch</h1>
                 <p className="max-w-[900px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                  Have a project in mind? Let's discuss how I can help bring your ideas to life.
+                  Have a project in mind? Let&apos;s discuss how I can help bring your ideas to life.
                 </p>
               </div>
             </div>
@@ -132,7 +132,7 @@ export default function ContactPage() {
                   <div className="pt-6">
                     <h3 className="font-medium mb-3">Availability</h3>
                     <p className="text-sm text-muted-foreground">
-                      I'm currently available for freelance projects, contract work, and full-time positions.
+                      I&apos;m currently available for freelance projects, contract work, and full-time positions.
                     </p>
                     <p className="text-sm text-muted-foreground mt-2">Response time: Usually within 24 hours</p>
                   </div>
@@ -143,7 +143,7 @@ export default function ContactPage() {
                 <CardHeader>
                   <CardTitle>Send a Message</CardTitle>
                   <CardDescription>
-                    Fill out the form below and I'll get back to you as soon as possible
+                    Fill out the form below and I&apos;ll get back to you as soon as possible
                   </CardDescription>
                 </CardHeader>
                 <CardContent>
@@ -223,7 +223,7 @@ export default function ContactPage() {
                       <h3 className="font-bold">What is your typical project timeline?</h3>
                       <p className="text-sm text-muted-foreground">
                         Project timelines vary based on complexity and scope. A simple website might take 2-4 weeks,
-                        while a complex application could take 2-6 months. I'll provide a detailed timeline during our
+                        while a complex application could take 2-6 months. I&apos;ll provide a detailed timeline during our
                         initial consultation.
                       </p>
                     </div>
